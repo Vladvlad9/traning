@@ -1,0 +1,209 @@
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.Form1.resources
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.Properties.Resources.resources
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\tst2.exe.config
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\tst2.exe
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\tst2.pdb
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\CircularProgressBar.dll
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\MetroFramework.dll
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\MySql.Data.dll
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\WinFormAnimation.dll
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\CircularProgressBar.xml
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\MySql.Data.xml
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\bin\Debug\WinFormAnimation.xml
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.exe
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.pdb
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.Form2.resources
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.UserControl1.resources
+C:\Users\vlad9\Documents\Visual Studio 2015\Projects\tst2\tst2\obj\Debug\tst2.Options.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\tst2.exe.config
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\CircularProgressBar.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\MetroFramework.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\MySql.Data.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\WinFormAnimation.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\CircularProgressBar.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\MySql.Data.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\bin\Debug\WinFormAnimation.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.Form1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.Form2.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.Options.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.Properties.Resources.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.UserControl1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия\tst2\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1\tst2\tst2\bin\Debug\tst2.exe.config
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1\tst2\tst2\obj\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1\tst2\tst2\obj\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\tst2.exe.config
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\CircularProgressBar.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\MetroFramework.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\MySql.Data.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\WinFormAnimation.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\CircularProgressBar.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\MySql.Data.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\bin\Debug\WinFormAnimation.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.Form1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.Form2.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.Options.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.Properties.Resources.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.UserControl1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.Form3.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (2)\tst2\tst2\obj\Debug\tst2.Profile.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\tst2.exe.config
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.Form1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.Form2.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.Form3.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.Options.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.Profile.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.Properties.Resources.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.UserControl1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\CircularProgressBar.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\MetroFramework.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\MySql.Data.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\WinFormAnimation.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\CircularProgressBar.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\MySql.Data.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2\tst2\bin\Debug\WinFormAnimation.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\tst2.exe.config
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\tst2.exe
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\tst2.pdb
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\CircularProgressBar.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\MetroFramework.Design.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\MetroFramework.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\MySql.Data.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\WinFormAnimation.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\CircularProgressBar.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\MySql.Data.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\WinFormAnimation.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Form1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Form2.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Form3.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Options.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Profile.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Properties.Resources.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.UserControl1.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\SmallBasicLibrary.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\SmallBasicLibrary.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\tst2.exe.manifest
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\tst2.application
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.exe.manifest
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.application
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Training.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Chapter_one.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\FastColoredTextBox.dll
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\bin\Debug\FastColoredTextBox.xml
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Introduction.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Input_Output.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Comments_Form.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Data_types.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Arithmetic_operations.resources
+C:\Users\vlad9\Google Диск\Диплом\V2\V2.1 — копия (3) — (Последняя)\tst2(оснавная)\tst2\obj\Debug\tst2.Increment_Decrement.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.exe.config
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.exe.manifest
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.application
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.exe
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.pdb
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\FastColoredTextBox.xml
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\SmallBasicLibrary.xml
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\WinFormAnimation.xml
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Arithmetic_operations.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Chapter_one.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Data_types.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Form1.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Form2.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Form3.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Increment_Decrement.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Input_Output.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Comments_Form.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Introduction.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Options.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Profile.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Training.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.UserControl1.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.exe.manifest
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.application
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.exe
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.pdb
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Conditional_operators.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Privedeniye_type.resources
+C:\Users\User\Desktop\Новая папка\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Cycles.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.exe.config
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.exe.manifest
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.application
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.exe
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\tst2.pdb
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\CircularProgressBar.dll
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MetroFramework.Design.dll
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MetroFramework.dll
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MetroFramework.Fonts.dll
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MySql.Data.dll
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\WinFormAnimation.dll
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\CircularProgressBar.xml
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\FastColoredTextBox.xml
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\MySql.Data.xml
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\SmallBasicLibrary.xml
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\bin\Debug\WinFormAnimation.xml
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.csprojResolveAssemblyReference.cache
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Arithmetic_operations.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Chapter_one.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Conditional_operators.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Cycles.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Data_types.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Form1.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Form2.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Form3.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Increment_Decrement.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Input_Output.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Comments_Form.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Introduction.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Options.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Privedeniye_type.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Profile.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Properties.Resources.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.Training.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.UserControl1.resources
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.csproj.GenerateResource.Cache
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.exe.manifest
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.application
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.exe
+E:\!МГВРК\Диплом\tst2(оснавная)-20170418T081816Z-001\tst2(оснавная)\tst2\obj\Debug\tst2.pdb
